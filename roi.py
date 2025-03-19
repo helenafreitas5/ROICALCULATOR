@@ -488,3 +488,5 @@ if calculate_button:
         )
 
 # Rodapé com informações
+st.markdown("---")
+st.caption("Calculadora de ROI para Campanhas de KOL - Ledger | Developed for ROI KOL analysis")
